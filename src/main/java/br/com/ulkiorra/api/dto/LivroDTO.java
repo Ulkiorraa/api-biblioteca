@@ -8,6 +8,7 @@ public class LivroDTO {
     private String titulo;
     private String isbn;
     private String nomeAutor;
+    private Long autorId;
     // Construtor, getters e setters são gerados pelo Lombok
     // Adicione outros campos conforme necessário
 }
